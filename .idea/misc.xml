@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/21019/AndroidStudioProjects/ZXingLibrary/app/src/main/res/layout/activity_fingerprint.xml" value="0.209375" />
+        <entry key="..\:/Users/21019/AndroidStudioProjects/ZXingLibrary/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/21019/AndroidStudioProjects/ZXingLibrary/app/src/main/res/layout/activity_nfc_reader.xml" value="0.33" />
+        <entry key="..\:/Users/21019/AndroidStudioProjects/ZXingLibrary/app/src/main/res/layout/activity_pokemon_gen_viii.xml" value="0.209375" />
+        <entry key="..\:/Users/21019/AndroidStudioProjects/ZXingLibrary/app/src/main/res/xml/nfc_tech_filter.xml" value="0.12916666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

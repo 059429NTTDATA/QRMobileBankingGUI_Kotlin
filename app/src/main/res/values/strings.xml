@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ZXingLibrary</string>
+    <string name="helper_activity">HelperActivity</string>
+    <string name="showing_code_in_fragment">Showing Code in Fragment</string>
+    <string name="scan_qr_code">SCAN QR CODE</string>
+    <string name="name">Name</string>
+    <string name="empty">---</string>
+    <string name="site_name">Site Name</string>
+    <string name="scan_a_code">Scan a QR Code</string>
+    <string name="result_not_found">Result Not Found</string>
+    <string name="show_scanner_from_fragment">Show Scanner From Fragment</string>
+    <string name="generateqr">GenerateQR Authenticator</string>
+    <string name="display_qr_code">display qr code</string>
+    <string name="open_gallery">Open Gallery And Scan Qr Code</string>
+    <string name="pokemon_hello">Pokemon Hello</string>
+    <string name="go_to_pokemon">Go to Pokemon</string>
+    <string name="display_image_from_gallery">display image from gallery</string>
+    <string name="display_image_pokemon">display image pokemon</string>
+    <string name="fingerprint">fingerprint</string>
+    <string name="fingerprint_success">Fingerprint Success</string>
+    <string name="secretKey">PV24IHOBUM3GD2ZT22TOQDAXQVBTYG22</string>
+    <string name="devsecops">Devsecops</string>
+    <string name="myemail">devsecops@gmail.com</string>
+    <string name="type_auth_code">type auth code</string>
+    <string name="auth_code">Auth Code</string>
+    <string name="check">Check</string>
+    <string name="msg_token_fmt" translatable="false">%s</string>
+    <string name="user_management">user management</string>
+    <string name="buttonNFC">NFC</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278783608953",
+    "project_id": "zxinglibrary-91a02",
+    "storage_bucket": "zxinglibrary-91a02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278783608953:android:ca16731c6b4a0eb771eca8",
+        "android_client_info": {
+          "package_name": "com.example.zxinglibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278783608953-slm6sor70o9mg4rft2s7j0li4ad8cval.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZNherzLFOE7QcL8rB929Uzkca9v983P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278783608953-slm6sor70o9mg4rft2s7j0li4ad8cval.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
